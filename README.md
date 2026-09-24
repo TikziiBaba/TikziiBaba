@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TikziiBaba/TikziiBaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Bekir
 
-Here are some ideas to get you started:
+### Software Developer • Cyber Security • Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-bekirr.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bekirr.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TikziiBaba)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Bekir Kaplan
+location: Türkiye
+role: Student / Developer
+focus:
+  - Software Development
+  - Cyber Security
+  - Web Development
+  - Linux
