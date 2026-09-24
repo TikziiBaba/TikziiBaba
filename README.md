@@ -1,163 +1,28 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00ff88&height=220&section=header&text=BEKIR%20KAPLAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Cyber%20Security&descAlignY=58&descSize=18&descColor=00ff88"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bekir...;%3E+Loading+developer+profile...;%3E+Software+Developer;%3E+Cyber+Security+Enthusiast;%3E+Building+things+on+the+internet...;%3E+System+Ready_"/>
-
-<br><br>
-
-<a href="https://bekirr.dev">
-<img src="https://img.shields.io/badge/🌐%20bekirr.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88&labelColor=000000" />
-</a>
-
-<a href="https://github.com/TikziiBaba">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,26&height=220&section=header&text=Hey%20there,%20I'm%20Beko!%20👋&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Creative%20Builder%20%7C%20Open-Source%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
 </div>
-
----
-
-## `> whoami`
-
-```text
-┌──(bekir㉿github)-[~]
-└─$ whoami
-
-Bekir Kaplan
-
-┌──(bekir㉿github)-[~]
-└─$ cat profile.txt
-
-Role        : Student / Developer
-Focus       : Software Development
-              Cyber Security
-              Web Development
-              Linux
-
-Currently   : Building & learning
-Status      : ONLINE
-```
-
----
-
-## `> skills`
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,linux,git,github,vscode&perline=10" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=650&height=110&lines=⚡+Crafting+modern+%26+high-performance+web+apps;🚀+Full-Stack+Architect+(Next.js+%7C+TypeScript+%7C+Supabase);☕+Converting+caffeine+into+clean+code;🌌+Exploring+spatial+interfaces+%26+smooth+animations" alt="Typing SVG" />
+  </a>
 </div>
 
-<br>
-
-```text
-Python        ████████████████████░░░
-C++           ████████████████░░░░░░
-JavaScript    █████████████████░░░░░
-HTML/CSS      ███████████████████░░░
-SQL           ███████████████░░░░░░░
-Linux         ██████████████████░░░░
-Git           ███████████████████░░░
-```
+<p align="center">
+  <a href="https://github.com/TikziiBaba" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:dedyusuf99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## `> projects`
+### 💫 About Me
 
-<div align="center">
-
-<a href="https://github.com/TikziiBaba">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TikziiBaba&repo=tikzidev.com&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88" />
-
-</a>
-
-</div>
-
-<br>
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  🌐 Portfolio       Personal developer website      │
-│                                                      │
-│  🤖 LuckMC          Discord bot ecosystem           │
-│                                                      │
-│  🎵 Music App       Spotify-inspired web project    │
-│                                                      │
-│  📁 NearDrop        Web-based file sharing          │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-## `> github stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TikziiBaba&show_icons=true&hide_border=true&theme=github_dark&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TikziiBaba&layout=compact&hide_border=true&theme=github_dark&title_color=00ff88&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TikziiBaba&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
-
-</div>
-
----
-
-## `> contribution graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TikziiBaba&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## `> terminal`
-
-```text
-┌──(bekir㉿github)-[~/projects]
-└─$ ls
-
-📁 web/
-📁 cybersecurity/
-📁 discord/
-📁 minecraft/
-📁 experiments/
-
-┌──(bekir㉿github)-[~/projects]
-└─$ echo "keep building."
-
-keep building.
-
-┌──(bekir㉿github)-[~/projects]
-└─$ _
-```
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TikziiBaba&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
-
-<br><br>
-
-### `// Code. Build. Break. Learn. Repeat.`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:111111,100:000000&height=120&section=footer"/>
-
-</div>
+```yaml
+name: Beko
+role: Full-Stack Software Developer
+current_focus: Modern Web Architecture, Next.js 15 & Real-time Systems
+passions: [Clean Code, Micro-interactions, Open Source, Deep Tech]
+status: "Building the future, one commit at a time 🚀"
