@@ -1,92 +1,92 @@
 <div align="center">
-  <!-- Animated Header Waving Banner with Twinkling Stars -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,26&height=220&section=header&text=Hey%20there,%20I'm%20Beko!%20👋&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Creative%20Builder%20%7C%20Open-Source%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,26&height=240&section=header&text=Beko&fontSize=72&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Builder%20%E2%80%A2%20Sivas&descAlignY=65&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <!-- Multi-line Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=650&height=110&lines=⚡+Crafting+modern+%26+high-performance+web+apps;🚀+Full-Stack+Architect+(Next.js+%7C+TypeScript+%7C+Supabase);☕+Converting+caffeine+into+clean+code;🌌+Exploring+spatial+interfaces+%26+smooth+animations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Building+fast%2C+modern+web+apps;%3E+Next.js+%7C+TypeScript+%7C+Supabase+%7C+Real-time;%3E+Converting+caffeine+into+clean+code+%E2%98%95;%3E+Exploring+spatial+UIs+%26+smooth+motion+%F0%9F%8C%8C" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <!-- Social Media & Contact Badges -->
-  <a href="https://github.com/TikziiBaba" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://bekirr.dev"><img src="https://img.shields.io/badge/Portfolio-bekirr.dev-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:dedyusuf99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/TikziiBaba?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 </p>
 
 <p align="center">
-  <!-- Real-time Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=TikziiBaba&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Visitor Views" />
+  <img src="https://komarev.com/ghpvc/?username=TikziiBaba&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 💫 About Me
+### 🧠 Whoami
 
-```yaml
-name: Beko
-role: Full-Stack Software Developer
-current_focus: Modern Web Architecture, Next.js 15 & Real-time Systems
-passions: [Clean Code, Micro-interactions, Open Source, Deep Tech]
-status: "Building the future, one commit at a time 🚀"
+```ts
+const beko = {
+  role: "Full-Stack Software Developer",
+  focus: ["Next.js 15", "Real-time systems", "Modern web architecture"],
+  passions: ["Clean code", "Micro-interactions", "Open source", "Deep tech"],
+  location: "Sivas, TR 🇹🇷",
+  status: "Building the future, one commit at a time 🚀",
+};
 ```
 
-- 🔭 Currently building **high-speed, modern full-stack web applications**
-- 🌱 Constantly learning and mastering **distributed architectures, WebAssembly & high-scale cloud patterns**
-- 💬 Ask me about **TypeScript, Next.js, React, Node.js, Supabase & Tailwind**
-- ⚡ Fun fact: *There are only 10 kinds of people in the world: those who understand binary, and those who don't.*
+- 🔭 **Now:** shipping high-speed full-stack web apps
+- 🌱 **Learning:** distributed architectures, WebAssembly, high-scale cloud patterns
+- 💬 **Ask me about:** TypeScript, Next.js, React, Node.js, Supabase, Tailwind
+- ⚡ **Fun fact:** There are 10 kinds of people: those who understand binary, and those who don't.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**bekirr.dev**](https://github.com/TikziiBaba/bekirr.dev) | Personal portfolio & CV site | HTML · CSS · JS |
+| [**Luckmc_discord_bot**](https://github.com/TikziiBaba/Luckmc_discord_bot) | Discord bot for the Luckmc community | Python |
+| [**bekofy**](https://github.com/TikziiBaba/bekofy) | Web project | JavaScript |
+| [**yuvam**](https://github.com/TikziiBaba/yuvam) | Web project | JavaScript |
+| [**luckmc**](https://github.com/TikziiBaba/luckmc) | Community project | Web |
 
 ---
 
 <div align="center">
-  <h2>🛠️ Languages & Tech Stack</h2>
-  <p><i>The tools, languages, and frameworks I use to bring ideas to life:</i></p>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,supabase,docker,git,python,html,css,vscode,figma&theme=dark&perline=15" alt="Tech Stack" />
-  </a>
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,supabase,docker,git,python,html,css,vscode,figma&theme=dark&perline=8" alt="Tech Stack" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>📊 GitHub Analytics & Streak</h2>
-  <br/>
-  <!-- Contribution Streak Stats -->
+  <h3>📊 Stats</h3>
+  <a href="https://github.com/TikziiBaba">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TikziiBaba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/TikziiBaba">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TikziiBaba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+  <br/><br/>
   <a href="https://github.com/TikziiBaba">
     <img src="https://streak-stats.demolab.com?user=TikziiBaba&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
   <br/><br/>
-  <!-- Repo Language Distribution Cards -->
-  <a href="https://github.com/TikziiBaba">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TikziiBaba&theme=tokyonight" alt="Repos per Language" />
-  </a>
-  <a href="https://github.com/TikziiBaba">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TikziiBaba&theme=tokyonight" alt="Most Committed Language" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=TikziiBaba&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🐍 Contribution Eating Snake</h2>
-  <p><i>Automated retro snake game eating GitHub contributions:</i></p>
-  <br/>
-  <img src="https://raw.githubusercontent.com/TikziiBaba/TikziiBaba/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <h3>🐍 Contribution Snake</h3>
+  <p><i>A retro snake that eats my contribution graph every day:</i></p>
+  <img src="https://raw.githubusercontent.com/TikziiBaba/TikziiBaba/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 </div>
 
 ---
 
 <div align="center">
   <br/>
-  <!-- Dynamic Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
   <br/><br/>
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,26&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22,26&height=120&section=footer" width="100%" alt="Footer" />
 </div>
